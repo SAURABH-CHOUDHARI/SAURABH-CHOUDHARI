@@ -1,4 +1,4 @@
-# Hi there, I'm Saurabh Choudhari! 👋
+q# Hi there, I'm Saurabh Choudhari! 👋
 
 ## About Me
 
@@ -17,10 +17,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, AWS, Azure
 - **Others:** Agile Methodologies, REST APIs, Microservices
-
-## GitHub Stats
-
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAURABH-CHOUDHARI&show_icons=true&theme=radical)
 
 ## Get in Touch
 
