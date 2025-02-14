@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript,  C++
 - **Web Technologies:** HTML, CSS, React, Node.js, Express
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, AWS, Azure
