@@ -1,4 +1,4 @@
-q# Hi there, I'm Saurabh Choudhari! 👋
+## Hi there, I'm Saurabh Choudhari! 👋
 
 ## About Me
 
